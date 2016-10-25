@@ -2,6 +2,7 @@
 <head>
 <title>Sicherheitskontrolle</title>
 <link rel="stylesheet" href="Stylesheet.css">
+<meta charset="utf-8">
 </head>
 <body>
 <div id="Top">
